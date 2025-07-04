@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_ConestogaMultiplayer/Scenes/Main.unity
+    guid: aa3257517584abc44bbdcc08e708288c
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6539c0d9b7bb5aa468caba6ebedbe44f, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 04075291776b38c4dbf271adac6654c1, type: 2}
